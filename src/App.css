@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(186, 193, 212);
+}
+
+main{
+  font-family:cursive;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color:rgb(193, 191, 176);
+  margin: 10%;
+  width: 80%;
+  max-width: 1000px;
+  max-height: 1000px;
+  border: 10px red;
+  border-radius: 10px;
+}
+
+h1{
+  background-color: rgb(232, 166, 166);
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+  color: rgb(164, 28, 48);
+  font-size: 50px;
+}
+
+.output{
+  padding:10px 5px;
+  border-radius: 9999px;
+  margin-top: 10px;
+  background-color: blanchedalmond;
+font-size: 30px;
+}
+.output-setion {
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.input-section{
+  width: 100%;
+  font-size: 30px;
+}
+.input-slider{
+  width: 50%;
+  margin-top: 10px;
+}
+.p{
+font-size: 30px;
+}
